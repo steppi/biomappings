@@ -7,6 +7,8 @@ has a unique such X then the match is considered to be of type 'skos:exactMatch.
 If there are multiple such Xs then the match is considered to be of type
 'skos:narrowMatch'.
 """
+
+
 import re
 import os
 import gzip
